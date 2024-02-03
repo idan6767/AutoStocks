@@ -1,0 +1,56 @@
+{
+    "AAPL": {
+        "symbol": "AAPL",
+        "date": "15.12.2023",
+        "sum": -7.2,
+        "row number": 183
+    },
+    "MSFT": {
+        "symbol": "MSFT",
+        "date": "30.01.2024",
+        "sum": 0.43,
+        "row number": 214
+    },
+    "META": {
+        "symbol": "META",
+        "date": "30.01.2024",
+        "sum": 18.79,
+        "row number": 214
+    },
+    "GOOG": {
+        "symbol": "GOOG",
+        "date": "30.01.2024",
+        "sum": -7.29,
+        "row number": 214
+    },
+    "TSLA": {
+        "symbol": "TSLA",
+        "date": "20.07.2023",
+        "sum": -40.81,
+        "row number": 105
+    },
+    "NFLX": {
+        "symbol": "NFLX",
+        "date": "30.01.2024",
+        "sum": -1.94,
+        "row number": 214
+    },
+    "AMZN": {
+        "symbol": "AMZN",
+        "date": "30.01.2024",
+        "sum": 6.71,
+        "row number": 214
+    },
+    "ADBE": {
+        "symbol": "ADBE",
+        "date": "13.12.2023",
+        "sum": 0.7,
+        "row number": 181
+    },
+    "BYND": {
+        "symbol": "BYND",
+        "date": "14.07.2023",
+        "sum": -85.14,
+        "row number": 103
+    }
+}

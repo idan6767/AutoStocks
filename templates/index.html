@@ -1,0 +1,115 @@
+{% extends 'bootstrap/base.html' %}
+{% include 'navbar.html' %}
+
+{% block title %}AutoStocks: Stock Market Management{% endblock %}
+{% block content %}
+
+{% block styles %}
+<head>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+{% endblock %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1 style="color:#D22B2B;">Stocks View</h1>
+        <br><br>
+        <h4>Last 5 Last Days</h4>
+        <br>
+
+
+
+	  <table class="table">
+          <thead>
+
+ <tr>
+    {% for headline in stocks_headlines %}
+        {% if headline != "Date" %}
+            <th style="color:#D22B2B;">
+                <a style="text-decoration:none" href="{{ url_for('card', symbol=headline) }}">{{ headline }}</a>
+                <a style="text-decoration:none" href="#" onclick="showPopup_{{ loop.index }}()">&nbsp;&nbsp;&nbsp;❌</a>
+            </th>
+        {% else %}
+            <th style="color:#D22B2B;">{{ headline }}</th>
+        {% endif %}
+    {% endfor %}
+</tr>
+
+<script>
+    {% for headline in stocks_headlines %}
+        {% if headline != "Date" %}
+            function showPopup_{{ loop.index }}() {
+                var confirmation = confirm("Are you sure you want to remove {{ headline }} from your list?");
+                if (confirmation) {
+                    window.location.href = "{{ url_for('delete_stock_from_data', symbol=headline) }}";
+                }
+            }
+        {% endif %}
+    {% endfor %}
+</script>
+            {% if stocks_data: %}
+                {% for stock in stocks_data %}
+                <tr>
+                    {% for row in stock %}
+                        <th scope="col">{{ row }}</th>
+                    {% endfor %}
+
+                    </tr>
+                {% endfor %}
+          {% else %}
+
+
+                <div class="container">
+
+      <center>
+          <br><br><br>
+
+         <h6><b>Your stocks list empty, add stocks to strat.</b></h6>
+      </center></div>
+            <br><br>
+          {% endif %}
+          </thead>
+  	  </table>
+        <br><br>
+
+
+        <div class="jumbotron text-center">
+    <div class="container">
+            <div class="col-sm-12">
+
+<form method="post" action="/">
+Select Year&nbsp;&nbsp;<SELECT name="year_select">
+        {% for year in years %}
+            <OPTION value="{{ year }}" {% if user_choice == year %}selected{% endif %}>{{ year }}</option>
+        {% endfor %}
+    </SELECT>
+        &nbsp;<input type="submit" value="submit">
+        </form>
+                {% if chart %}
+                <br><br>
+                <img src="data:image/png;base64,{{ chart }}" alt="stock">
+                <img src="data:image/png;base64,{{ pie_chart }}" alt="stock">
+
+                <br>
+                {% endif %}
+
+{{ df | safe }}
+
+    </div>
+    </div>
+  </div>
+    </div>
+  </div>
+</center>
+
+{% endblock %}
+
+</div>
+
+{% include 'ending.html' %}
+
+

@@ -1,0 +1,61 @@
+
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-bottom" id="ending">
+
+    <div class="container">
+      <a class="navbar-brand" href="{{url_for('stocks')}}">📈 AutoStocks</a>
+
+                <a class="navbar-brand"></a>
+        <br>
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto  no-bullets">
+
+            <li class="nav-item active">
+            <a class="nav-link" href="{{url_for('choose_stocks')}}">Edit Stocks List</a>
+            </li>
+
+                  <li class="nav-item active">
+            <a class="nav-link" href="{{url_for('info_cards')}}">Stocks Info Cards</a>
+            </li>
+
+                  <li class="nav-item active">
+            <a class="nav-link" href="{{url_for('crisis_manager')}}">Crisis Manager</a>
+            </li>
+
+
+
+
+        </ul>
+      </div>
+    </div>
+
+                <!-- Button to jump to the top -->
+<div class="top">
+  <button class="top" onclick="scrollToTop()" style="display: none;"><img class="top" src="static/images/up.png"></button>
+</div>
+
+<script>
+  // JavaScript function to scroll to the top of the page
+  function scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
+  // Add event listener to window scroll event
+  window.addEventListener("scroll", function() {
+    // Check if the user has scrolled down (you can adjust the value as needed)
+    var scrollPosition = window.scrollY || document.documentElement.scrollTop;
+
+    if (scrollPosition > 900) {
+      // If scrolled down, show the "Go Up" button
+      document.querySelector('.top button').style.display = 'block';
+    } else {
+      // If at the top, hide the "Go Up" button
+      document.querySelector('.top button').style.display = 'none';
+    }
+  });
+</script>
+
+  </nav>

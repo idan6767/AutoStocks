@@ -1,0 +1,117 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block title %}AutoStocks: Choose Stocks{% endblock %}
+{% include 'navbar.html' %}
+
+{% block styles %}
+<head>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+{% endblock %}
+
+{% block content %}
+{% with messages = get_flashed_messages() %}
+
+
+
+<div class="jumbotron text-center">
+    <div class="container">
+          <div class="row">
+
+  <h1 class="display-4">☕️ Pick Stocks 💻</h1>
+  <p class="lead">Please Choose The Stocks You Want To Follow.</p>
+  <hr class="my-4">
+
+	  <table class="table">
+          <thead>
+          <th>              <center>
+
+                {% for stock in stocks_data %}
+
+                 <a style="text-decoration:none" href="{{ url_for('card', symbol=row) }}">{{ stock }}</a><a style="text-decoration:none" href="#" onclick="showPopup_{{ loop.index }}()">&nbsp;❌&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                {% endfor %}
+
+              <script>
+    {% for stock in stocks_data %}
+            function showPopup_{{ loop.index }}() {
+                var confirmation = confirm("Are you sure you want to remove {{ stock }} from your list?");
+                if (confirmation) {
+                    window.location.href = "{{ url_for('delete_stock_from_data', symbol=stock) }}";
+                }
+            }
+    {% endfor %}
+</script>
+
+                                        </center>
+</th>
+          </thead>
+      </table>
+<center>
+    <br>
+                  <div class="col-md-1 mb-1">
+
+
+{{ wtf.quick_form(form) }}
+        {% for message in messages %}
+            {{ message }}
+        {% endfor %}
+    </center>
+</div>
+
+</div>
+    </div>
+<center>
+
+    {% if user_stocks %}
+      {% for stock in user_stocks: %}
+
+        <div class="container">
+
+      <div class="card" style="width: 80%;">
+    <div class="card-header">
+  <img class="card-img-top" style="width: 10%; align:left" src="https://logo.clearbit.com/{{ stock['shortName'].split()[0].replace(',', '').split('.')[0] }}.com" alt="photo">
+  <div class="card-body">
+    <h5 class="card-title">{{ stock['shortName'].split()[0].replace(',', '').split('.')[0] }}</h5>
+    <p class="card-text"> {{ stock['industry'] }} </p>
+          <p class="card-text"> {{ stock['sector'] }}</p>
+
+
+    <a href="{{ url_for('add_stocks_list', single=stock['underlyingSymbol']) }}" class="btn btn-primary">Add</a>
+      <a href="{{ url_for('delete_stock_from_temp_data', symbol=stock['underlyingSymbol']) }}" class="btn btn-primary">Remove</a>
+
+    </div>
+    </div>
+  </div>
+</div>
+<br>
+
+
+        {% endfor %}
+    {% else %}
+        no input
+
+
+{% endif %}
+
+
+<br><br>
+
+<a class="btn btn-warning btn-lg" href="{{ url_for('add_stocks_list') }}" role="button">Add All</a>
+
+<br><br>
+<br>
+<br>
+
+
+
+
+
+
+{% endwith %}
+
+{% endblock %}
+
+    {% include 'ending.html' %}
