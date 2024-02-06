@@ -3,22 +3,22 @@
         "symbol": "AAPL",
         "news": [
             {
-                "uuid": "4590e326-9352-35ef-b4b5-c2f422d663bd",
-                "title": "Decoding Apple Inc (AAPL): A Strategic SWOT Insight",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/news/decoding-apple-inc-aapl-strategic-050307726.html",
-                "providerPublishTime": 1706936587,
+                "uuid": "fb9493c5-21de-3e8d-bc76-92a3d2caff96",
+                "title": "61.5 Billion Reasons Alphabet Stock Is a Buy Again for 2024",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/fb9493c5-21de-3e8d-bc76-92a3d2caff96/61.5-billion-reasons-alphabet.html",
+                "providerPublishTime": 1707149700,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/o7VOEWbBX5UEPj7o060ZMw--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/6b2eab2b95429115b8cf27cf21f9c02c",
-                            "width": 400,
-                            "height": 400,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mV4rP7CzB0i1r0t19nZIig--~B/aD01MDc7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28cc19d8006ad447576a3824b7fdab74",
+                            "width": 720,
+                            "height": 507,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/8zAtpLl_5rG3QFHPGK2UWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/6b2eab2b95429115b8cf27cf21f9c02c",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/HJ.64ZXbzVbou_USTf6O_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/28cc19d8006ad447576a3824b7fdab74",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -26,55 +26,59 @@
                     ]
                 },
                 "relatedTickers": [
-                    "AAPL"
-                ]
-            },
-            {
-                "uuid": "51e3b75b-2b18-3287-af6a-792d97496564",
-                "title": "Competitive threat to Apple in China is not long lasting: Analyst",
-                "publisher": "Yahoo Finance Video",
-                "link": "https://finance.yahoo.com/video/competitive-threat-apple-china-not-235123087.html",
-                "providerPublishTime": 1706917883,
-                "type": "VIDEO",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/9DhxsLbU3OigTuFCzdquPQ--~B/aD0xMjE2O3c9MjE2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/bc4a79c0-c225-11ee-9ff3-0557e5831bf6",
-                            "width": 2160,
-                            "height": 1216,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/DvYV79_frZbAAd8sQlUJQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/bc4a79c0-c225-11ee-9ff3-0557e5831bf6",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
+                    "GOOG",
                     "AAPL",
-                    "XIACF",
-                    "XIACY"
+                    "AMZN"
                 ]
             },
             {
-                "uuid": "09093334-53fb-4d52-bea2-99ee72819f39",
-                "title": "Apple\u2019s Vision Pro lands as the company faces threats from all sides",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/news/apples-vision-pro-lands-as-the-company-faces-threats-from-all-sides-225650277.html",
-                "providerPublishTime": 1706914610,
+                "uuid": "c7c5565c-023c-38fe-8cb5-bf3050ccf622",
+                "title": "Dow Jones Sells Off 370 Points As Caterpillar, McDonald's Report; Nvidia Surges To Record Highs",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/c7c5565c-023c-38fe-8cb5-bf3050ccf622/dow-jones-sells-off-370.html",
+                "providerPublishTime": 1707147279,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/_FvsHT4bpAoogevALH3SfA--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/105df980-c215-11ee-9ffe-b2890f680078",
-                            "width": 6048,
-                            "height": 4024,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aC4DHZr6VDPvdRHATBHYwg--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/74686876a277fcc691ba57a2061a2c9f",
+                            "width": 1012,
+                            "height": 572,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/S0KTz5dYiyP4tHDQazlAWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/105df980-c215-11ee-9ffe-b2890f680078",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/UlPr9F5Plu22kJEjDPJfEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/74686876a277fcc691ba57a2061a2c9f",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "^DJI",
+                    "NVDA",
+                    "COMP",
+                    "MCD",
+                    "AAPL"
+                ]
+            },
+            {
+                "uuid": "c5ae6586-494e-3fc7-9a16-ede305b0afc0",
+                "title": "Where Will Apple Stock Be in 3 Years?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/c5ae6586-494e-3fc7-9a16-ede305b0afc0/where-will-apple-stock-be-in.html",
+                "providerPublishTime": 1707147000,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/p.csB2pVJ.7IKxfHUX5RcQ--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/89b7c645f3c26da3b6cc0d63d43ee1d3",
+                            "width": 2121,
+                            "height": 1414,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/VbPBIoitKsdLML3JnFZVAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/89b7c645f3c26da3b6cc0d63d43ee1d3",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -86,22 +90,22 @@
                 ]
             },
             {
-                "uuid": "8f497871-812c-36a4-810a-da8e6eeddf9b",
-                "title": "The People Buying Apple\u2019s $3,500 Vision Pro Headset",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/8f497871-812c-36a4-810a-da8e6eeddf9b/the-people-buying-apple%E2%80%99s.html",
-                "providerPublishTime": 1706913900,
+                "uuid": "897b5a75-e092-3ed9-a5e4-34e448da328d",
+                "title": "Meta Platforms Stock Dips, Apple Edges Higher, and Other Tech News Today",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/897b5a75-e092-3ed9-a5e4-34e448da328d/meta-platforms-stock-dips%2C.html",
+                "providerPublishTime": 1707145680,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/eT4SVAIEuzAXg0Ns3GjWIw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/394be56134156195e1ef7a1a28e9125c",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Ldf6tWDNU4oYCwJwelGKmw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
                             "width": 1280,
                             "height": 640,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/CW_D6NrcE66bTpo4LhMC9A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/394be56134156195e1ef7a1a28e9125c",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TUpb0EzqgxvCzPSyKIhQ6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -109,118 +113,28 @@
                     ]
                 },
                 "relatedTickers": [
-                    "AAPL"
-                ]
-            },
-            {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "NVDA",
-                    "TSLA",
                     "META",
-                    "GOOG",
                     "AAPL",
-                    "AMZN",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "23dc3805-310c-3183-8fbc-86b8c2372a08",
-                "title": "Judge certifies Apple app store class action",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/news/judge-certifies-apple-app-store-221416676.html",
-                "providerPublishTime": 1706912056,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/TAh6aam6oi3NB.8WvIrACg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48a78b00657957983f1cc0580c28a194",
-                            "width": 800,
-                            "height": 533,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/yMyEcBle6068h2evbaKXmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/48a78b00657957983f1cc0580c28a194",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "AAPL"
-                ]
-            },
-            {
-                "uuid": "4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b",
-                "title": "Magnificent Seven Stocks To Buy And Watch: Amazon, Meta Surge; Nvidia Rallies To Record High",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-to.html",
-                "providerPublishTime": 1706909442,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/IVY_jviTG_ue49k31izfew--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f287385a5f84c1d1e13191d4ae92d9fb",
-                            "width": 1065,
-                            "height": 600,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/EDUpiEmpjj.CUhr9H67TBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f287385a5f84c1d1e13191d4ae92d9fb",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NVDA",
-                    "AAPL",
-                    "TSLA",
-                    "META",
                     "MSFT"
                 ]
             },
             {
-                "uuid": "cf25f127-727d-398b-9c13-4b3a00141e41",
-                "title": "Meta Stock Surges to Record, Amazon Gains After Big-Tech Earnings Rush",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/cf25f127-727d-398b-9c13-4b3a00141e41/meta-stock-surges-to-record%2C.html",
-                "providerPublishTime": 1706909419,
+                "uuid": "0e2fec29-33d0-3c45-8e40-e4c6a19d1b1e",
+                "title": "Company News for Feb 5, 2024",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/company-news-feb-5-2024-141000902.html",
+                "providerPublishTime": 1707142200,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/3gxktFJszMaKQNVLNddvnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/15dd89a695ccc29287a0778e1591887d",
-                            "width": 1280,
-                            "height": 640,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Jl3EwVqWPtr7Q3yYhe.A1g--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1585b73748775a131bbef61f41be0a77",
+                            "width": 620,
+                            "height": 413,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Cm2lu2fBq.cSIaRiVdXt3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/15dd89a695ccc29287a0778e1591887d",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/nZvL0akla2lf0vIJxPeOZw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/1585b73748775a131bbef61f41be0a77",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -228,9 +142,91 @@
                     ]
                 },
                 "relatedTickers": [
+                    "MCHP",
                     "AAPL",
+                    "DECK"
+                ]
+            },
+            {
+                "uuid": "439caf83-4cef-3223-9d0d-815e6b11de68",
+                "title": "Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/know-beyond-why-apple-inc-140012424.html",
+                "providerPublishTime": 1707141612,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                            "width": 900,
+                            "height": 675,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/rm3.DEH2cLu6ucaTWn4tQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AAPL"
+                ]
+            },
+            {
+                "uuid": "c2c348bf-7334-36ce-867b-0abf827d880b",
+                "title": "USHER\u2019s Road to Halftime on Apple Music lets fans listen, watch, dance, and sing their way to Super Bowl LVIII",
+                "publisher": "Business Wire",
+                "link": "https://finance.yahoo.com/news/usher-road-halftime-apple-music-140000472.html",
+                "providerPublishTime": 1707141600,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/kGhYdBxdqkMWOfEtyK_clQ--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/a277ad5220a0e62a793ce72feec07f5c",
+                            "width": 480,
+                            "height": 270,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TK8gczaAxgMKe4IzJkJ2pQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/business-wire.com/a277ad5220a0e62a793ce72feec07f5c",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AAPL"
+                ]
+            },
+            {
+                "uuid": "384d3b97-e593-3e87-a7b5-056a9b6896cb",
+                "title": "1 Trillion-Dollar Warren Buffett Stock to Buy Hand Over Fist and 1 to Avoid for Now",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/384d3b97-e593-3e87-a7b5-056a9b6896cb/1-trillion-dollar-warren.html",
+                "providerPublishTime": 1707138900,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/3zrDA13qUOSBHMyxjafolQ--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36bf8c3c246e2b5d1653b3319a405ab0",
+                            "width": 720,
+                            "height": 441,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aRDJWzJuThvuQOpm6oTU8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/36bf8c3c246e2b5d1653b3319a405ab0",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
                     "AMZN",
-                    "META"
+                    "AAPL"
                 ]
             }
         ]
@@ -239,174 +235,22 @@
         "symbol": "MSFT",
         "news": [
             {
-                "uuid": "942f0a25-734f-38fc-9b33-6b00ad6b2fb4",
-                "title": "2 AI Stocks I'm Going \"All In\" On In 2024",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/942f0a25-734f-38fc-9b33-6b00ad6b2fb4/2-ai-stocks-i%27m-going-%22all.html",
-                "providerPublishTime": 1706949900,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/WXPDQfUWhTmhCIMtEBY_Eg--~B/aD01OTk7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/32709c7375274a1d55f6864943949d74",
-                            "width": 720,
-                            "height": 599,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/nfwaio1p9ia3urnNcPvGRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32709c7375274a1d55f6864943949d74",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "GOOG",
-                    "AMD",
-                    "^GSPC",
-                    "MSFT"
-                ]
-            },
-            {
-                "uuid": "c5bf6ba8-a25f-32e1-ad4c-f7ce44f67ae8",
-                "title": "Sometimes It\u2019s Best to Be Right and Early",
+                "uuid": "897b5a75-e092-3ed9-a5e4-34e448da328d",
+                "title": "Meta Platforms Stock Dips, Apple Edges Higher, and Other Tech News Today",
                 "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/c5bf6ba8-a25f-32e1-ad4c-f7ce44f67ae8/sometimes-it%E2%80%99s-best-to-be.html",
-                "providerPublishTime": 1706916180,
+                "link": "https://finance.yahoo.com/m/897b5a75-e092-3ed9-a5e4-34e448da328d/meta-platforms-stock-dips%2C.html",
+                "providerPublishTime": 1707145680,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/4.b9issNXSsZegmkeTslqA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bd2506e96f1e476764f93b7eff01cd21",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Ldf6tWDNU4oYCwJwelGKmw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
                             "width": 1280,
                             "height": 640,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Uc62XJIOhtYc5KR_gAVjzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bd2506e96f1e476764f93b7eff01cd21",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "XOM"
-                ]
-            },
-            {
-                "uuid": "3249161c-72eb-3aae-81da-c86c929eaadd",
-                "title": "Why Snowflake Stock Soared Today",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/3249161c-72eb-3aae-81da-c86c929eaadd/why-snowflake-stock-soared.html",
-                "providerPublishTime": 1706913928,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/wexjzEqqMEa4N5O0qeqNMw--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a7f49d8414f4619234033b5a2e57ccee",
-                            "width": 720,
-                            "height": 441,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/KrQseGs1gE2YxPWM3swJWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a7f49d8414f4619234033b5a2e57ccee",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "SNOW",
-                    "AMZN",
-                    "MSFT"
-                ]
-            },
-            {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "NVDA",
-                    "TSLA",
-                    "META",
-                    "GOOG",
-                    "AAPL",
-                    "AMZN",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b",
-                "title": "Magnificent Seven Stocks To Buy And Watch: Amazon, Meta Surge; Nvidia Rallies To Record High",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-to.html",
-                "providerPublishTime": 1706909442,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/IVY_jviTG_ue49k31izfew--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f287385a5f84c1d1e13191d4ae92d9fb",
-                            "width": 1065,
-                            "height": 600,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/EDUpiEmpjj.CUhr9H67TBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f287385a5f84c1d1e13191d4ae92d9fb",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NVDA",
-                    "AAPL",
-                    "TSLA",
-                    "META",
-                    "MSFT"
-                ]
-            },
-            {
-                "uuid": "d59c43f6-4d1e-4858-abfb-05bde3d5940f",
-                "title": "Meta stock jumps 20% after earnings in biggest market-cap jump in stock market history",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/news/meta-stock-jumps-20-after-earnings-in-biggest-market-cap-jump-in-stock-market-history-212511451.html",
-                "providerPublishTime": 1706909111,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/SXpl4NI1EK7EDSbD2TpcvA--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/91b0d520-c125-11ee-beee-a728ce4c870a",
-                            "width": 6000,
-                            "height": 4000,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/b1u7GdYXyLGDlyvo55xBvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/91b0d520-c125-11ee-beee-a728ce4c870a",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TUpb0EzqgxvCzPSyKIhQ6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -415,60 +259,27 @@
                 },
                 "relatedTickers": [
                     "META",
-                    "NVDA",
                     "AAPL",
-                    "AMZN",
-                    "GOOG",
                     "MSFT"
                 ]
             },
             {
-                "uuid": "b58a0f83-5995-3409-a6ad-ec94d2aacfe2",
-                "title": "Snowflake, Datadog, Cloud Software Stocks Lifted By Amazon, Microsoft Reports",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b58a0f83-5995-3409-a6ad-ec94d2aacfe2/snowflake%2C-datadog%2C-cloud.html",
-                "providerPublishTime": 1706907927,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/w0BtlAZFWhO0AshljHFiug--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0dee8ec9f7c97a7fc65e1d732445d5f4",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/T1p14q3WtUA45LThqTog6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0dee8ec9f7c97a7fc65e1d732445d5f4",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "AMZN",
-                    "GOOG",
-                    "DDOG"
-                ]
-            },
-            {
-                "uuid": "e174c41c-d00a-3aa2-872e-302ebb69bcbc",
-                "title": "Big Tech Crushes Earnings: Which One Should You Buy?",
+                "uuid": "62032cb4-d925-3223-a108-22a3944e44fe",
+                "title": "Is Microsoft (MSFT) a Buy as Wall Street Analysts Look Optimistic?",
                 "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/news/big-tech-crushes-earnings-one-205900217.html",
-                "providerPublishTime": 1706907540,
+                "link": "https://finance.yahoo.com/news/microsoft-msft-buy-wall-street-143005015.html",
+                "providerPublishTime": 1707143405,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/JnR1gSFfXgBzBhbrVfXjDA--~B/aD0zOTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0e44f06ba60daebc125548f7b34f3d0f",
-                            "width": 620,
-                            "height": 393,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                            "width": 900,
+                            "height": 601,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/qfcJKK7Ngl6MLJPuaYe0hw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0e44f06ba60daebc125548f7b34f3d0f",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/syGPuhdcxJrEtuZed80ilQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -476,11 +287,175 @@
                     ]
                 },
                 "relatedTickers": [
-                    "MSFT",
-                    "META",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "afd62a66-8943-3154-ab8b-79e86a2f53ff",
+                "title": "Microsoft partners with Semafor for AI-assisted news content",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/microsoft-partners-semafor-ai-assisted-142946457.html",
+                "providerPublishTime": 1707143386,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/8zlu.thsO17dmfk_tRtCPg--~B/aD01MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/4d2d674da3467939faa02c672252fd21",
+                            "width": 800,
+                            "height": 500,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Tg301NCINEXAw3K6rAzhkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/4d2d674da3467939faa02c672252fd21",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "9944e128-5b78-31bc-8325-c3308553d527",
+                "title": "Is Salesforce Stock A Buy Amid Expectations For AI Revenue Boost?",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/9944e128-5b78-31bc-8325-c3308553d527/is-salesforce-stock-a-buy.html",
+                "providerPublishTime": 1707141955,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/HX4Lps6aWcWpdNa3h7gllg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                            "width": 1000,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/_Bdpw1GRikSII1OYp1_JnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "CRM",
+                    "DATA",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "d669dac0-9e9b-390e-8aac-0f96b7ca1bf4",
+                "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/microsoft-corporation-msft-trending-stock-140013074.html",
+                "providerPublishTime": 1707141613,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                            "width": 900,
+                            "height": 587,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/tcFLKwhz5YeAyf4wT0.fUA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "ad525ed1-ffa8-34ec-bd81-0634cc7b1614",
+                "title": "How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/strong-computer-technology-stocks-slated-140005956.html",
+                "providerPublishTime": 1707141605,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                            "width": 900,
+                            "height": 601,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/sz.PXkOG_KtvLQskImJYTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AKAM",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "5962d59d-fd09-36cb-afa4-1c9b22a80cb4",
+                "title": "Software Stocks To Watch Amid Debates Over Gen AI, Cloud Computing",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/5962d59d-fd09-36cb-afa4-1c9b22a80cb4/software-stocks-to-watch-amid.html",
+                "providerPublishTime": 1707139069,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/3c5WY3s3eN6IXGKnoHrm1A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
+                            "width": 1000,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/BqPbfjyvBGdkhBMNw_mdLA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "ADBE",
+                    "TEAM",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "a7639b31-3897-3f44-97fe-bf4127617452",
+                "title": "12 Most Advanced AI Assistants",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/news/12-most-advanced-ai-assistants-131248411.html",
+                "providerPublishTime": 1707138768,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/vi5828gaQQQmXGwDAEyRRA--~B/aD05Njk7dz0xOTM3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d26d2c55cd027e2b4f44ded4c6ac02d0",
+                            "width": 1937,
+                            "height": 969,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/e1D1DXlcPcq5isLeKyt.Cg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d26d2c55cd027e2b4f44ded4c6ac02d0",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
                     "GOOG",
-                    "AAPL",
-                    "AMZN"
+                    "MSFT"
                 ]
             }
         ]
@@ -489,22 +464,314 @@
         "symbol": "META",
         "news": [
             {
-                "uuid": "cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d",
-                "title": "Why Major Tech Stocks Like Alphabet and Broadcom Flew Higher on Friday",
+                "uuid": "9879f514-ac4b-370e-801c-82e8c9ce1945",
+                "title": "Could Super Micro Computer Become the Next Nvidia?",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d/why-major-tech-stocks-like.html",
-                "providerPublishTime": 1706920747,
+                "link": "https://finance.yahoo.com/m/9879f514-ac4b-370e-801c-82e8c9ce1945/could-super-micro-computer.html",
+                "providerPublishTime": 1707148800,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/3.6nya8vBd_GslnpxXmUOA--~B/aD0xNDE0O3c9MjEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
-                            "width": 2120,
-                            "height": 1414,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/EWg2_LskKG0tDSt8asKayA--~B/aD05ODA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/03c1817334251286a31d07a413d74f09",
+                            "width": 1400,
+                            "height": 980,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/uNWQJ5O2zmyjniVwyg58DQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ZoZesNSgJkfHezfZ__dyew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/03c1817334251286a31d07a413d74f09",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "SMCI",
+                    "NVDA",
+                    "META"
+                ]
+            },
+            {
+                "uuid": "c31018e7-cf0e-3b39-a40f-77b99325c174",
+                "title": "Manipulated Biden video can remain online, Meta\u2019s Oversight Board rules",
+                "publisher": "CNN Business",
+                "link": "https://finance.yahoo.com/m/c31018e7-cf0e-3b39-a40f-77b99325c174/manipulated-biden-video-can.html",
+                "providerPublishTime": 1707146758,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/N8Bu86zf96F1tMtk.duD6Q--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/210b9bcc9a635511370c74b623d9b59e",
+                            "width": 960,
+                            "height": 540,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/NptEViBq8c2CaW8mlB7bZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cnn_business_articles_218/210b9bcc9a635511370c74b623d9b59e",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "META"
+                ]
+            },
+            {
+                "uuid": "75f355d8-b2d9-35e3-8acb-3768da57c8c1",
+                "title": "Social-Media Shares Slip After Meta's Big Friday",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/75f355d8-b2d9-35e3-8acb-3768da57c8c1/social-media-shares-slip.html",
+                "providerPublishTime": 1707146100,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+                            "width": 1200,
+                            "height": 630,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/zIJaagDuCJitt1Cvcwyc7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "SNAP",
+                    "META",
+                    "PINS"
+                ]
+            },
+            {
+                "uuid": "897b5a75-e092-3ed9-a5e4-34e448da328d",
+                "title": "Meta Platforms Stock Dips, Apple Edges Higher, and Other Tech News Today",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/897b5a75-e092-3ed9-a5e4-34e448da328d/meta-platforms-stock-dips%2C.html",
+                "providerPublishTime": 1707145680,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Ldf6tWDNU4oYCwJwelGKmw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TUpb0EzqgxvCzPSyKIhQ6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcce24581ccf4249adf457e682a416a1",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "META",
+                    "AAPL",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "a8f8788f-9abc-3302-924c-b049dc023586",
+                "title": "5 Technology Stocks Powering S&P 500 ETF to Record Highs",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/5-technology-stocks-powering-p-150000035.html",
+                "providerPublishTime": 1707145200,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/4m6Yrt5OGYQe0oZtN.CWGQ--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c35b98fa9bbd08ef2db417cae984bd68",
+                            "width": 620,
+                            "height": 349,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/89Crpw7xArH0PgRE_gaS8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/c35b98fa9bbd08ef2db417cae984bd68",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AMD",
+                    "^GSPC",
+                    "SPY",
+                    "META",
+                    "PANW",
+                    "JNPR",
+                    "NVDA"
+                ]
+            },
+            {
+                "uuid": "215fd275-86df-35c0-a36e-acc23c5a464f",
+                "title": "These Stocks Are Moving the Most Today",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/215fd275-86df-35c0-a36e-acc23c5a464f/these-stocks-are-moving-the.html",
+                "providerPublishTime": 1707145038,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/_kc6REYMS1JrAuV5bYtjfA--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+                            "width": 320,
+                            "height": 65,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/5waH37HKuL3X52B3V2GWrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "BA",
+                    "META"
+                ]
+            },
+            {
+                "uuid": "7a1d7c21-14be-3b03-812b-144ea57f3c80",
+                "title": "These Stocks Are Moving the Most Today: Boeing, Nvidia, Meta, Catalent, Caterpillar, Estee Lauder, Air Products, and More",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/7a1d7c21-14be-3b03-812b-144ea57f3c80/these-stocks-are-moving-the.html",
+                "providerPublishTime": 1707144960,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/gm1pvOqJTWX.cuZlJk3s7w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b7f9c96b1246032fda1bb531a421daaa",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/DE6GV7M7xmnL.ciCYIRhug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b7f9c96b1246032fda1bb531a421daaa",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "BA",
+                    "NVDA",
+                    "META",
+                    "PLTR"
+                ]
+            },
+            {
+                "uuid": "333fe536-d214-326f-9d47-1e09c7da9455",
+                "title": "Is Lam Research (LRCX) Outperforming Other Computer and Technology Stocks This Year?",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/lam-research-lrcx-outperforming-other-144008159.html",
+                "providerPublishTime": 1707144008,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                            "width": 900,
+                            "height": 618,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/6pxctapMeQGo6ifr3PxShQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "LRCX",
+                    "META"
+                ]
+            }
+        ]
+    },
+    "GOOG": {
+        "symbol": "GOOG",
+        "news": [
+            {
+                "uuid": "af6f62f6-bc96-3926-9299-c66dd0cb2119",
+                "title": "Alphabet Inc. (GOOG) is Attracting Investor Attention: Here is What You Should Know",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/alphabet-inc-goog-attracting-investor-140012150.html",
+                "providerPublishTime": 1707141612,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                            "width": 900,
+                            "height": 636,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ml_IW6uskjsyNFznUfnUDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "GOOG"
+                ]
+            },
+            {
+                "uuid": "07be4bbb-f67f-3942-b632-8eae330fe8d0",
+                "title": "Is Google Stock A Buy Amid AI Battle, Higher Capital Spending?",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/07be4bbb-f67f-3942-b632-8eae330fe8d0/is-google-stock-a-buy-amid-ai.html",
+                "providerPublishTime": 1707138904,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/pQknnFVglYpam52AZma8lA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c2816df9e361b5de32c4aa2c7c768fe0",
+                            "width": 1000,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/qNISDs2WZXVovRHyaNZcKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c2816df9e361b5de32c4aa2c7c768fe0",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "GOOG"
+                ]
+            },
+            {
+                "uuid": "a7639b31-3897-3f44-97fe-bf4127617452",
+                "title": "12 Most Advanced AI Assistants",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/news/12-most-advanced-ai-assistants-131248411.html",
+                "providerPublishTime": 1707138768,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/vi5828gaQQQmXGwDAEyRRA--~B/aD05Njk7dz0xOTM3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d26d2c55cd027e2b4f44ded4c6ac02d0",
+                            "width": 1937,
+                            "height": 969,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/e1D1DXlcPcq5isLeKyt.Cg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d26d2c55cd027e2b4f44ded4c6ac02d0",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -513,17 +780,45 @@
                 },
                 "relatedTickers": [
                     "GOOG",
-                    "META",
-                    "AMZN",
-                    "AVGO"
+                    "MSFT"
                 ]
             },
             {
-                "uuid": "d770a836-1cb2-340c-a20a-4fde1e1495aa",
-                "title": "Analyst Report: Meta Platforms, Inc.",
-                "publisher": "Morningstar Research",
-                "link": "https://finance.yahoo.com/m/d770a836-1cb2-340c-a20a-4fde1e1495aa/analyst-report%3A-meta.html",
-                "providerPublishTime": 1706917925,
+                "uuid": "b1ff0996-3d00-3fda-8870-5cc547d366a4",
+                "title": "Looking Outside the \"Magnificent Seven\" Stocks Could Be a Good Idea for Artificial Intelligence (AI) Investors: Here's 1 Stock That I've Got My Eye On",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/b1ff0996-3d00-3fda-8870-5cc547d366a4/looking-outside-the.html",
+                "providerPublishTime": 1707136200,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/IEq113KrD6KMjuJw4ULGaQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6dc43188740af0434a428bea89fc1672",
+                            "width": 1400,
+                            "height": 933,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ohlPNNGiomOEAAN1AcXx8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6dc43188740af0434a428bea89fc1672",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "IBM",
+                    "MSFT",
+                    "GOOG",
+                    "NVDA"
+                ]
+            },
+            {
+                "uuid": "c88bfcdd-974e-35d4-8d70-7fa041c613c9",
+                "title": "Analyst Report: Alphabet Inc",
+                "publisher": "Argus Research",
+                "link": "https://finance.yahoo.com/m/c88bfcdd-974e-35d4-8d70-7fa041c613c9/analyst-report%3A-alphabet-inc.html",
+                "providerPublishTime": 1707133682,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
@@ -536,280 +831,81 @@
                     ]
                 },
                 "relatedTickers": [
-                    "META"
+                    "GOOG"
                 ]
             },
             {
-                "uuid": "69cc40f4-71ef-396e-ab17-356ea3e52f4c",
-                "title": "The Score: Meta Platforms, Norfolk Southern, Exxon Mobil and More Stocks That Defined the Week",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/69cc40f4-71ef-396e-ab17-356ea3e52f4c/the-score%3A-meta-platforms%2C.html",
-                "providerPublishTime": 1706915640,
+                "uuid": "c5668022-3c0a-3791-a6c1-4c46fa970ec0",
+                "title": "Alphabet (GOOG) Thrived in 2023 Despite Competition Concerns",
+                "publisher": "Insider Monkey",
+                "link": "https://finance.yahoo.com/news/alphabet-goog-thrived-2023-despite-113427571.html",
+                "providerPublishTime": 1707132867,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/KiGMC7odADjwQggGwHb7gw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/cc2d11540c1685455f9fdc54941de69d",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Ex8pLkcgW2KPjIDmbtBpWA--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
                             "width": 1280,
-                            "height": 640,
+                            "height": 854,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Wzp41FF51RhXYfoJBmg9wg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/cc2d11540c1685455f9fdc54941de69d",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/RIwva.SAFR_rmicLgC4pXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
                         }
                     ]
                 },
-                "relatedTickers": [
-                    "XOM",
-                    "META",
-                    "NSC",
-                    "CVX",
-                    "SOFI"
-                ]
-            },
-            {
-                "uuid": "0255270d-73ee-38cf-b960-651f7651c8d7",
-                "title": "Meta (META) Beats Earnings Estimates and Announces First Ever Dividend is it Time to Buy?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/news/meta-meta-beats-earnings-estimates-230800877.html",
-                "providerPublishTime": 1706915280,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/7Iym8orrYmpSRnZaMQR6zw--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7882119eb979ad0e5b65ffca28c9531f",
-                            "width": 900,
-                            "height": 602,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/8FTZeBAiqBQtD_ilDMQuDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/7882119eb979ad0e5b65ffca28c9531f",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "META"
-                ]
-            },
-            {
-                "uuid": "f9ca8ceb-bcac-3b5c-99a8-549a9b95ea93",
-                "title": "Meta's Brand-New Dividend Will Make You This Much Richer",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/f9ca8ceb-bcac-3b5c-99a8-549a9b95ea93/meta%27s-brand-new-dividend.html",
-                "providerPublishTime": 1706912982,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Wu_Wbe6D_K7Kjx7MxTASYw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/800f3b6595626101b7af7426ca4e311e",
-                            "width": 945,
-                            "height": 533,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/7UaO5m6UqfJIBfigNSL9TQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/800f3b6595626101b7af7426ca4e311e",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "^GSPC",
-                    "META"
-                ]
-            },
-            {
-                "uuid": "7c96a164-91be-3ec2-acf4-9ac83ae52e76",
-                "title": "Big Tech earnings, January jobs report fuel stock rally",
-                "publisher": "Yahoo Finance Video",
-                "link": "https://finance.yahoo.com/video/big-tech-earnings-january-jobs-221527477.html",
-                "providerPublishTime": 1706912127,
-                "type": "VIDEO",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/2OmPA5ebBHzCq9NnxvvLnQ--~B/aD0zNjU3O3c9NjUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/abe14c20-c208-11ee-b87f-e43000538970",
-                            "width": 6500,
-                            "height": 3657,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/RwM8yGEHF41Sdl6N5NkH.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/abe14c20-c208-11ee-b87f-e43000538970",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "META",
-                    "^DJI",
-                    "^IXIC",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "NVDA",
-                    "TSLA",
-                    "META",
-                    "GOOG",
-                    "AAPL",
-                    "AMZN",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "3bd64401-424e-3ee8-9d5a-0bababa4e707",
-                "title": "Is It Too Late to Buy Meta Platforms Stock?",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/3bd64401-424e-3ee8-9d5a-0bababa4e707/is-it-too-late-to-buy-meta.html",
-                "providerPublishTime": 1706911800,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/9HyDImtI7p92fHGjbrBfrw--~B/aD00MzkzO3c9NzAwODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/fa70decd522e4d7cc7a15e4583e6497b",
-                            "width": 7008,
-                            "height": 4393,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/JSPZFxpceceIRtdQ8A4BJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fa70decd522e4d7cc7a15e4583e6497b",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "META",
-                    "^GSPC"
-                ]
-            }
-        ]
-    },
-    "GOOG": {
-        "symbol": "GOOG",
-        "news": [
-            {
-                "uuid": "942f0a25-734f-38fc-9b33-6b00ad6b2fb4",
-                "title": "2 AI Stocks I'm Going \"All In\" On In 2024",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/942f0a25-734f-38fc-9b33-6b00ad6b2fb4/2-ai-stocks-i%27m-going-%22all.html",
-                "providerPublishTime": 1706949900,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/WXPDQfUWhTmhCIMtEBY_Eg--~B/aD01OTk7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/32709c7375274a1d55f6864943949d74",
-                            "width": 720,
-                            "height": 599,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/nfwaio1p9ia3urnNcPvGRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32709c7375274a1d55f6864943949d74",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "GOOG",
-                    "AMD",
-                    "^GSPC",
-                    "MSFT"
-                ]
-            },
-            {
-                "uuid": "cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d",
-                "title": "Why Major Tech Stocks Like Alphabet and Broadcom Flew Higher on Friday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d/why-major-tech-stocks-like.html",
-                "providerPublishTime": 1706920747,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/3.6nya8vBd_GslnpxXmUOA--~B/aD0xNDE0O3c9MjEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
-                            "width": 2120,
-                            "height": 1414,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/uNWQJ5O2zmyjniVwyg58DQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "GOOG",
-                    "META",
-                    "AMZN",
-                    "AVGO"
-                ]
-            },
-            {
-                "uuid": "b24861ea-664e-37e6-b386-e962faf6ed63",
-                "title": "Driverless cars covered 5x more test miles in California in 2023",
-                "publisher": "Reuters",
-                "link": "https://finance.yahoo.com/news/driverless-cars-covered-5x-more-233008465.html",
-                "providerPublishTime": 1706916608,
-                "type": "STORY",
                 "relatedTickers": [
                     "GOOG"
                 ]
             },
             {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
+                "uuid": "de492915-c342-3e89-a10c-2ad4ddd7d514",
+                "title": "Market Digest: BA, CMS, GOOGL, HON, LAZ, TSCO, WRB, QRVO",
+                "publisher": "Argus Research",
+                "link": "https://finance.yahoo.com/m/de492915-c342-3e89-a10c-2ad4ddd7d514/market-digest%3A-ba%2C-cms%2C.html",
+                "providerPublishTime": 1707132782,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/SVKRhvYIgdoUv2HlogaP.A--~B/aD0wO3c9MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png",
+                            "width": 0,
+                            "height": 0,
+                            "tag": "original"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "WRB",
+                    "LAZ",
+                    "HON",
+                    "BA",
+                    "QRVO",
+                    "CMS",
+                    "TSCO",
+                    "GOOG"
+                ]
+            },
+            {
+                "uuid": "869ee8e5-208a-3b10-9e25-eb1479ad5799",
+                "title": "Big Tech Stocks Face High Bar to Sustain Gains in 2024",
+                "publisher": "Bloomberg",
+                "link": "https://finance.yahoo.com/news/big-tech-stocks-face-high-112143046.html",
+                "providerPublishTime": 1707132103,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/xGX7SYXUQgw.zPBKYpqW.w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/0b9c3b8c0ec1038bff2bdf595986f536",
+                            "width": 1200,
+                            "height": 675,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/hDJQtebr.6MOI4XEaCRFJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/0b9c3b8c0ec1038bff2bdf595986f536",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -817,139 +913,11 @@
                     ]
                 },
                 "relatedTickers": [
-                    "MSFT",
                     "NVDA",
+                    "MSFT",
+                    "AAPL",
                     "TSLA",
-                    "META",
-                    "GOOG",
-                    "AAPL",
-                    "AMZN",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "0edc9aaa-e3ba-3178-be5a-f8c16fbffff2",
-                "title": "Warren Buffett Stocks: ANET, ELF Among 23 Names On This Screen",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/0edc9aaa-e3ba-3178-be5a-f8c16fbffff2/warren-buffett-stocks%3A-anet%2C.html",
-                "providerPublishTime": 1706909266,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Av1uqyJMQ_7V9fY4dCYvMA--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1eca04fa1c2e999f92cbe7d3db997d7e",
-                            "width": 1012,
-                            "height": 572,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/trjt2Bs.HRZ9VmNPgf9P1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1eca04fa1c2e999f92cbe7d3db997d7e",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "GOOGL",
-                    "MPWR",
-                    "SFM",
-                    "BABA",
-                    "FB",
-                    "TER"
-                ]
-            },
-            {
-                "uuid": "d59c43f6-4d1e-4858-abfb-05bde3d5940f",
-                "title": "Meta stock jumps 20% after earnings in biggest market-cap jump in stock market history",
-                "publisher": "Yahoo Finance",
-                "link": "https://finance.yahoo.com/news/meta-stock-jumps-20-after-earnings-in-biggest-market-cap-jump-in-stock-market-history-212511451.html",
-                "providerPublishTime": 1706909111,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/SXpl4NI1EK7EDSbD2TpcvA--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/91b0d520-c125-11ee-beee-a728ce4c870a",
-                            "width": 6000,
-                            "height": 4000,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/b1u7GdYXyLGDlyvo55xBvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/91b0d520-c125-11ee-beee-a728ce4c870a",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "META",
-                    "NVDA",
-                    "AAPL",
-                    "AMZN",
-                    "GOOG",
-                    "MSFT"
-                ]
-            },
-            {
-                "uuid": "b58a0f83-5995-3409-a6ad-ec94d2aacfe2",
-                "title": "Snowflake, Datadog, Cloud Software Stocks Lifted By Amazon, Microsoft Reports",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/b58a0f83-5995-3409-a6ad-ec94d2aacfe2/snowflake%2C-datadog%2C-cloud.html",
-                "providerPublishTime": 1706907927,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/w0BtlAZFWhO0AshljHFiug--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0dee8ec9f7c97a7fc65e1d732445d5f4",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/T1p14q3WtUA45LThqTog6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0dee8ec9f7c97a7fc65e1d732445d5f4",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "AMZN",
-                    "GOOG",
-                    "DDOG"
-                ]
-            },
-            {
-                "uuid": "e174c41c-d00a-3aa2-872e-302ebb69bcbc",
-                "title": "Big Tech Crushes Earnings: Which One Should You Buy?",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/news/big-tech-crushes-earnings-one-205900217.html",
-                "providerPublishTime": 1706907540,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/JnR1gSFfXgBzBhbrVfXjDA--~B/aD0zOTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0e44f06ba60daebc125548f7b34f3d0f",
-                            "width": 620,
-                            "height": 393,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/qfcJKK7Ngl6MLJPuaYe0hw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0e44f06ba60daebc125548f7b34f3d0f",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "MSFT",
-                    "META",
-                    "GOOG",
-                    "AAPL",
-                    "AMZN"
+                    "GOOG"
                 ]
             }
         ]
@@ -958,22 +926,22 @@
         "symbol": "TSLA",
         "news": [
             {
-                "uuid": "866201e4-b9ca-3524-ba75-aa3ad0b4be0b",
-                "title": "Tesla settles for $1.5 million after allegations of illegally disposing hazardous waste",
-                "publisher": "LA Times",
-                "link": "https://finance.yahoo.com/news/tesla-settles-1-5-million-024425696.html",
-                "providerPublishTime": 1706928265,
+                "uuid": "36c6be8f-c6f5-3023-9e21-1cebfe27e817",
+                "title": "Tesla Stock Is Down. It\u2019s More Elon Musk \u2018Noise.\u2019",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/36c6be8f-c6f5-3023-9e21-1cebfe27e817/tesla-stock-is-down.-it%E2%80%99s.html",
+                "providerPublishTime": 1707148617,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/tYHMsOqNbrpeXICj00..Rw--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/4b652329ceeab7062831a04669475bd6",
-                            "width": 840,
-                            "height": 560,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/_kc6REYMS1JrAuV5bYtjfA--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+                            "width": 320,
+                            "height": 65,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/v_btUOab2NVWIMO8N3qnlw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/la_times_articles_853/4b652329ceeab7062831a04669475bd6",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/5waH37HKuL3X52B3V2GWrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -985,81 +953,22 @@
                 ]
             },
             {
-                "uuid": "7d80b452-62e6-358e-a0d6-02d518fcbd73",
-                "title": "Dow Jones, S&P 500 Hit Highs; 5 New Buys In Stock Picker's Market",
+                "uuid": "c3c40c01-c6e3-399e-978e-274cc81fff57",
+                "title": "Tesla Skids As Analysts Throw In The Towel On Earnings Growth For Another Year",
                 "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/7d80b452-62e6-358e-a0d6-02d518fcbd73/dow-jones%2C-s%26p-500-hit-highs%3B.html",
-                "providerPublishTime": 1706927420,
+                "link": "https://finance.yahoo.com/m/c3c40c01-c6e3-399e-978e-274cc81fff57/tesla-skids-as-analysts-throw.html",
+                "providerPublishTime": 1707148540,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/tPrRj6vVdFXad0EXTEYbnQ--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9b40cdd0f82838a264d70c4e2aba9f7c",
-                            "width": 1012,
-                            "height": 572,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/rmOO9btEULohf6m8PCbnFg--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c6ce10ab044a79d8502e066df08506b6",
+                            "width": 1000,
+                            "height": 511,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Moidi6cSI4VLgwtxsZ6dwA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9b40cdd0f82838a264d70c4e2aba9f7c",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "TSLA",
-                    "^GSPC",
-                    "COMP",
-                    "^DJI",
-                    "SNPS"
-                ]
-            },
-            {
-                "uuid": "d4495861-2862-3775-9569-e1297e887dc0",
-                "title": "Magnificent 7 Earnings Results Solidify Market Leadership",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/news/magnificent-7-earnings-results-solidify-004700569.html",
-                "providerPublishTime": 1706921220,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Ih9MYAg1STCZOhXuopMwvw--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a701fc30d7261d8bfb4d014b0449e1f8",
-                            "width": 620,
-                            "height": 413,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/Os4LPT2QJ.z4jpinE0Tlfg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/a701fc30d7261d8bfb4d014b0449e1f8",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "^GSPC",
-                    "TSLA"
-                ]
-            },
-            {
-                "uuid": "0960ef32-3404-317e-bfbe-3eaada01a61d",
-                "title": "Tesla ordered to pay $1.5 million over alleged hazardous waste violations in California",
-                "publisher": "Associated Press Finance",
-                "link": "https://finance.yahoo.com/news/tesla-ordered-pay-1-5-003007502.html",
-                "providerPublishTime": 1706920207,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/mzSd_LChiMyaf5yfLPm2Ew--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap_finance_articles_694/ff6cc233760786eaf8cbd4e03af4bcfa",
-                            "width": 6000,
-                            "height": 4000,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/B0bzwtlg.arQ1KxyUigQ6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap_finance_articles_694/ff6cc233760786eaf8cbd4e03af4bcfa",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/9NlllaDRqabgg2QLQylSlA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c6ce10ab044a79d8502e066df08506b6",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1071,22 +980,22 @@
                 ]
             },
             {
-                "uuid": "18b0b343-2595-31a9-b1b9-90a08aca7441",
-                "title": "Tesla Recalls Millions of Vehicles Over Latest Safety Flaw",
-                "publisher": "The Wall Street Journal",
-                "link": "https://finance.yahoo.com/m/18b0b343-2595-31a9-b1b9-90a08aca7441/tesla-recalls-millions-of.html",
-                "providerPublishTime": 1706918760,
+                "uuid": "c7a11a15-72c6-346e-95f2-51c26b622898",
+                "title": "Tesla Stock Is Falling. It\u2019s More Elon Musk \u2018Noise.\u2019",
+                "publisher": "Barrons.com",
+                "link": "https://finance.yahoo.com/m/c7a11a15-72c6-346e-95f2-51c26b622898/tesla-stock-is-falling.-it%E2%80%99s.html",
+                "providerPublishTime": 1707145980,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/9OzlPeDVkJB10e5dKXv8dA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9fef8430c42658cb75929c1df597860f",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/gE_qW.s3Y91sAOiVtPBYjA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/af080ae73885361601fb0643ec07941f",
                             "width": 1280,
                             "height": 640,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/qc5VRo7yi9aZELsrXRPRsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9fef8430c42658cb75929c1df597860f",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/8Yo4j7RX1nvlOQ0YxGtYog--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/af080ae73885361601fb0643ec07941f",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1098,77 +1007,22 @@
                 ]
             },
             {
-                "uuid": "41e1248e-9fc5-30ab-8d61-87cc491c31e3",
-                "title": "Not just Tesla: Why so many companies incorporate in Delaware",
-                "publisher": "Yahoo Finance Video",
-                "link": "https://finance.yahoo.com/video/not-just-tesla-why-many-232047501.html",
-                "providerPublishTime": 1706916047,
-                "type": "VIDEO",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/z86bsFOU8rKUK4agbn.FJA--~B/aD0zMzg3O3c9NjAxNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/46ac5d60-c21f-11ee-bf3b-c5fda182951b",
-                            "width": 6014,
-                            "height": 3387,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/EXfYlLog9aJgJwkcp_tiaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/46ac5d60-c21f-11ee-bf3b-c5fda182951b",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "TSLA"
-                ]
-            },
-            {
-                "uuid": "49bcb2a7-5dbc-3d29-8c20-a6d529f8a858",
-                "title": "Jeff Bezos could surpass Elon Musk as world's richest person",
-                "publisher": "Yahoo Finance Video",
-                "link": "https://finance.yahoo.com/video/jeff-bezos-could-surpass-elon-222750635.html",
-                "providerPublishTime": 1706912870,
-                "type": "VIDEO",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/WUpibZ0b8H8fNaFr4uAJ8w--~B/aD00MzAwO3c9NzY0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/73cc5a40-c218-11ee-bbbf-56044ad6d643",
-                            "width": 7640,
-                            "height": 4300,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/CVeaRktUdLIFco6sLypX6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/73cc5a40-c218-11ee-bbbf-56044ad6d643",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "TSLA",
-                    "AMZN"
-                ]
-            },
-            {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
+                "uuid": "38ab8568-3801-307f-bc88-c5a2b7ef8fbc",
+                "title": "Stocks to Watch Monday: Palantir, McDonald's, Caterpillar, Tesla",
+                "publisher": "The Wall Street Journal",
+                "link": "https://finance.yahoo.com/m/38ab8568-3801-307f-bc88-c5a2b7ef8fbc/stocks-to-watch-monday%3A.html",
+                "providerPublishTime": 1707145964,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/6bKqU53kSF6_J43sbcXT2w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/78435cd878a477c48e3c7ddfa738d554",
+                            "width": 1280,
+                            "height": 640,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TNPCBiIoO2ggxrTgCf5gQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/78435cd878a477c48e3c7ddfa738d554",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1176,14 +1030,112 @@
                     ]
                 },
                 "relatedTickers": [
-                    "MSFT",
-                    "NVDA",
+                    "SPR",
                     "TSLA",
-                    "META",
-                    "GOOG",
-                    "AAPL",
-                    "AMZN",
-                    "^GSPC"
+                    "MCD",
+                    "CTLT",
+                    "BA"
+                ]
+            },
+            {
+                "uuid": "4314841c-9413-35a5-9a51-0bdd80268b7e",
+                "title": "SAP removes Tesla from list of company car suppliers -Handelsblatt",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/sap-removes-tesla-list-company-145054995.html",
+                "providerPublishTime": 1707144654,
+                "type": "STORY",
+                "relatedTickers": [
+                    "TSLA"
+                ]
+            },
+            {
+                "uuid": "f21147a0-8b66-3535-8c4b-c16f502f9f59",
+                "title": "EV Roundup: LI's 106% Y/Y Delivery Growth, TSLA's 2.2M Vehicle Recall & More",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/ev-roundup-lis-106-y-135400450.html",
+                "providerPublishTime": 1707141240,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mucrO0DxGLGDxXivNASt0A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f06305900adac9df2662c1a5f2781c7e",
+                            "width": 635,
+                            "height": 400,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/V2o7kEctCeL3yrnTikWk.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/f06305900adac9df2662c1a5f2781c7e",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "NIO",
+                    "XPEV",
+                    "TSLA",
+                    "LI",
+                    "GOEVW"
+                ]
+            },
+            {
+                "uuid": "8f012cb0-3e6e-3f4d-96e9-165059b01e32",
+                "title": "Analyst reveals new Tesla price target with focus on undervalued business unit",
+                "publisher": "TheStreet",
+                "link": "https://finance.yahoo.com/m/8f012cb0-3e6e-3f4d-96e9-165059b01e32/analyst-reveals-new-tesla.html",
+                "providerPublishTime": 1707141199,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/nSHl6EtB1spvKjjKHVBkgQ--~B/aD04MDA7dz0xMTk4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d7999fd15395c594b5e1dc0be419b133",
+                            "width": 1198,
+                            "height": 800,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1iZzZceJHNjUDdxygnHl2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d7999fd15395c594b5e1dc0be419b133",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "TSLA"
+                ]
+            },
+            {
+                "uuid": "6c62e3e4-c9bb-3f38-a251-6a676946a7ad",
+                "title": "Auto Roundup: GM Tops Q4 Earnings Estimates, LAD Buys Pendragon & More",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/auto-roundup-gm-tops-q4-135000194.html",
+                "providerPublishTime": 1707141000,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/z0P_wa5A.lwGDagEmF9csQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d9909195d38b3d0a5e8f4add2c63c714",
+                            "width": 635,
+                            "height": 400,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/pjhXzK0PImDOsc7peaPBSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d9909195d38b3d0a5e8f4add2c63c714",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "PDGNF",
+                    "TSLA",
+                    "GPI",
+                    "OSK",
+                    "LAD",
+                    "GM"
                 ]
             }
         ]
@@ -1191,6 +1143,172 @@
     "NFLX": {
         "symbol": "NFLX",
         "news": [
+            {
+                "uuid": "62a33857-375e-3e36-8103-67cbdd92c959",
+                "title": "2 Stocks to Buy Near Their 52-Week Highs",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/62a33857-375e-3e36-8103-67cbdd92c959/2-stocks-to-buy-near-their.html",
+                "providerPublishTime": 1707144300,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/EZ5uxnUPSi8ZHKYF4UDlWQ--~B/aD0xNDE1O3c9MjExOTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/d234ad65a0dceb2d0c5fcb2536a63cf5",
+                            "width": 2119,
+                            "height": 1415,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/11OONPnlFKe1DjJiUzqTag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d234ad65a0dceb2d0c5fcb2536a63cf5",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "ABT",
+                    "NFLX"
+                ]
+            },
+            {
+                "uuid": "103e6f5b-832f-3dcb-91b6-e7ff869f04f4",
+                "title": "BBC and other channels to launch Freely service in Netflix fightback",
+                "publisher": "The Telegraph",
+                "link": "https://finance.yahoo.com/m/103e6f5b-832f-3dcb-91b6-e7ff869f04f4/bbc-and-other-channels-to.html",
+                "providerPublishTime": 1707138835,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ZTBSbNvc4nhWtRGf1zPqHg--~B/aD0xNDE1O3c9MjI2NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_258/f8c1979a282a0b178c8191e050ae5ac2",
+                            "width": 2264,
+                            "height": 1415,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/OZ6h.PIbcZkD7wUX6VE0.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_telegraph_258/f8c1979a282a0b178c8191e050ae5ac2",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "NFLX"
+                ]
+            },
+            {
+                "uuid": "bf08a6ed-8f2d-3c08-8995-4b5b314c5948",
+                "title": "2 Roaring Stocks to Hold for the Next 20 Years",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/bf08a6ed-8f2d-3c08-8995-4b5b314c5948/2-roaring-stocks-to-hold-for.html",
+                "providerPublishTime": 1707135000,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1nK6tn4kfTpx2tAfCniPkw--~B/aD0xNDE1O3c9MjExOTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/069b9101b1e1a8fba0efe0769176aaa9",
+                            "width": 2119,
+                            "height": 1415,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/gSCkpUR6yCBrIpY3B1hpjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/069b9101b1e1a8fba0efe0769176aaa9",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "NFLX",
+                    "PANW"
+                ]
+            },
+            {
+                "uuid": "3d88869a-9598-347e-bae7-13e5ff9a42d8",
+                "title": "It's Been Nearly 2 Years Since Netflix's Password Sharing Crackdown. Is the Stock a Buy in Today's Bull Market?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/3d88869a-9598-347e-bae7-13e5ff9a42d8/it%27s-been-nearly-2-years.html",
+                "providerPublishTime": 1707051600,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/QfKqPTq28kCNLHq7SuEZ_Q--~B/aD0xMjAwO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/ce6755d8c4c3e82a4fb238ad1eb7d8f6",
+                            "width": 1200,
+                            "height": 1200,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/4n4ahYMQ600qKMwYbd_epw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ce6755d8c4c3e82a4fb238ad1eb7d8f6",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "NFLX"
+                ]
+            },
+            {
+                "uuid": "63269ac4-0c7d-35b2-a93a-9d6f3aefba7e",
+                "title": "Should You Buy Walt Disney Stock While It's Below $100?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/63269ac4-0c7d-35b2-a93a-9d6f3aefba7e/should-you-buy-walt-disney.html",
+                "providerPublishTime": 1707049200,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/wWIp6Z2zXRJYaUfHtk9NyA--~B/aD0zODc7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64b581eb3a72021654be3cdc81cd4c82",
+                            "width": 720,
+                            "height": 387,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mHRSn2FF3JQfyuqnnx6lVQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/64b581eb3a72021654be3cdc81cd4c82",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "DIS",
+                    "NFLX"
+                ]
+            },
+            {
+                "uuid": "7accf43a-adb6-3ee8-bc16-49c57dc7efb6",
+                "title": "Earnings To Watch: Chegg (CHGG) Reports Q4 Results",
+                "publisher": "StockStory",
+                "link": "https://finance.yahoo.com/news/earnings-watch-chegg-chgg-reports-070152743.html",
+                "providerPublishTime": 1707030112,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/nEwU.dTWjeGanO5EHmWOXA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/209b1f0ca60bf730990eee0d1668bad6",
+                            "width": 1400,
+                            "height": 700,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/slGSWl6ICs5AraaawMVsQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/209b1f0ca60bf730990eee0d1668bad6",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "CHGG",
+                    "NFLX"
+                ]
+            },
             {
                 "uuid": "753378e1-ca9b-3342-80e6-745eb9a7cc43",
                 "title": "Is Stride (LRN) Outperforming Other Consumer Discretionary Stocks This Year?",
@@ -1246,178 +1364,6 @@
                     "UTI",
                     "RCL"
                 ]
-            },
-            {
-                "uuid": "475b27f0-f2fe-372d-b626-f6c7e8f62f63",
-                "title": "Top 5 Momentum Stocks for February After a Seesawing January",
-                "publisher": "Zacks",
-                "link": "https://finance.yahoo.com/news/top-5-momentum-stocks-february-130800619.html",
-                "providerPublishTime": 1706879280,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/BzOXdQ7DqcGcFrEuRGAhYg--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0a03ce4508f037a370f4217f0d5fccc1",
-                            "width": 620,
-                            "height": 349,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/q4B6I6q502o.VtvPbaizCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/0a03ce4508f037a370f4217f0d5fccc1",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "COMP",
-                    "^GSPC",
-                    "NFLX",
-                    "PGR",
-                    "TXT"
-                ]
-            },
-            {
-                "uuid": "aa55017b-a117-3a39-ad84-8f4c55cad4c8",
-                "title": "We Ran A Stock Scan For Earnings Growth And Netflix (NASDAQ:NFLX) Passed With Ease",
-                "publisher": "Simply Wall St.",
-                "link": "https://finance.yahoo.com/news/ran-stock-scan-earnings-growth-130015051.html",
-                "providerPublishTime": 1706878815,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/udxuPGbnGnWZ0VDos8BqIA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c2c7fca21723fbfe613e9e376779a1d5",
-                            "width": 1194,
-                            "height": 432,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/YZHOUyTsJX7kpSHx3_1w5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c2c7fca21723fbfe613e9e376779a1d5",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NFLX"
-                ]
-            },
-            {
-                "uuid": "ee7f2d84-5ba2-3be0-8e29-560ef3cda9dc",
-                "title": "Paramount Global Faces a Buyout Offer as Its Value Keeps Falling",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/ee7f2d84-5ba2-3be0-8e29-560ef3cda9dc/paramount-global-faces-a.html",
-                "providerPublishTime": 1706833920,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/txSPCrFAPmVnZ9jaukArmQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2e8e075b0746b9bf41521a5fd7383cca",
-                            "width": 1280,
-                            "height": 640,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/qhrAT7EOcxsoqSvBDFiIFw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2e8e075b0746b9bf41521a5fd7383cca",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "COMB.BR",
-                    "NFLX",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "149fb63d-7b53-3111-835e-e60713430a4a",
-                "title": "Once-unstoppable consumers are finally tapping the brakes\u2014and Adidas, Nike, and Puma are taking a beating from sinking sales",
-                "publisher": "Fortune",
-                "link": "https://finance.yahoo.com/news/once-unstoppable-consumers-finally-tapping-210733412.html",
-                "providerPublishTime": 1706821653,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/8EHibJibDf9NlMpYNaE1qw--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/709a112fea94c8922ab6467eb7495d30",
-                            "width": 2048,
-                            "height": 1365,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/j0JooGJbAZZNXvVnLhLQ6g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fortune_175/709a112fea94c8922ab6467eb7495d30",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NKE",
-                    "NFLX",
-                    "ADS.DE"
-                ]
-            },
-            {
-                "uuid": "e70a655f-c43e-3755-aedd-180e23286f1d",
-                "title": "Google, Nvidia Reveal 7 Telltale Traits To Refine Your Stock Picks",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/e70a655f-c43e-3755-aedd-180e23286f1d/google%2C-nvidia-reveal-7.html",
-                "providerPublishTime": 1706814427,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/4vzxkNG3TevWYOcidx.fGw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/153faeba12159fe7b154f60f942d1bf4",
-                            "width": 1012,
-                            "height": 572,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/OQAlOyyggTx_dr2Psv_bPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/153faeba12159fe7b154f60f942d1bf4",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NVDA",
-                    "NFLX"
-                ]
-            },
-            {
-                "uuid": "a0ec3546-f2d0-3bbf-a11f-e044bfa99984",
-                "title": "Disney+, Hulu, and ESPN+ begin cracking down on password sharing",
-                "publisher": "Fortune",
-                "link": "https://finance.yahoo.com/news/disney-hulu-espn-begin-cracking-162243548.html",
-                "providerPublishTime": 1706804563,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/HvNhNleQ20HCpIqAvhrwsQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/c33103f771bf9cd82be35fa667c7c577",
-                            "width": 2048,
-                            "height": 1365,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/KIdwIovH9NWk9w1Wty_JZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fortune_175/c33103f771bf9cd82be35fa667c7c577",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "NFLX",
-                    "DIS"
-                ]
             }
         ]
     },
@@ -1425,22 +1371,22 @@
         "symbol": "AMZN",
         "news": [
             {
-                "uuid": "8d5cadee-5dd3-3364-a98c-6410d93a9483",
-                "title": "4 Eye-Catching Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
+                "uuid": "fb9493c5-21de-3e8d-bc76-92a3d2caff96",
+                "title": "61.5 Billion Reasons Alphabet Stock Is a Buy Again for 2024",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/8d5cadee-5dd3-3364-a98c-6410d93a9483/4-eye-catching-growth-stocks.html",
-                "providerPublishTime": 1706954760,
+                "link": "https://finance.yahoo.com/m/fb9493c5-21de-3e8d-bc76-92a3d2caff96/61.5-billion-reasons-alphabet.html",
+                "providerPublishTime": 1707149700,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/eRJQwNFOs8Rw5USwExhQ6Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a42fcbcb81e0098400fc72590865809e",
-                            "width": 1400,
-                            "height": 933,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mV4rP7CzB0i1r0t19nZIig--~B/aD01MDc7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28cc19d8006ad447576a3824b7fdab74",
+                            "width": 720,
+                            "height": 507,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/kJpZnymXhSbXObn6Rns3Tw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a42fcbcb81e0098400fc72590865809e",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/HJ.64ZXbzVbou_USTf6O_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/28cc19d8006ad447576a3824b7fdab74",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1448,32 +1394,28 @@
                     ]
                 },
                 "relatedTickers": [
-                    "COMP",
-                    "ETSY",
-                    "PUBM",
-                    "BIDU",
-                    "AMZN",
-                    "^GSPC",
-                    "JAZZ"
+                    "GOOG",
+                    "AAPL",
+                    "AMZN"
                 ]
             },
             {
-                "uuid": "75e6e62e-8007-3524-9746-fbc59e5bd66b",
-                "title": "Decoding Amazon.com Inc (AMZN): A Strategic SWOT Insight",
-                "publisher": "GuruFocus.com",
-                "link": "https://finance.yahoo.com/news/decoding-amazon-com-inc-amzn-050604304.html",
-                "providerPublishTime": 1706936764,
+                "uuid": "33317baf-84d1-32e5-b6d1-6bccd7e8d176",
+                "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
+                "publisher": "Zacks",
+                "link": "https://finance.yahoo.com/news/growth-investor-1-stock-could-144506200.html",
+                "providerPublishTime": 1707144306,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/H3fu6pZG0boqqB8KrYjKDw--~B/aD0xODQ7dz0yNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/1118bd8dbe858f7957f0c5f2281008f8",
-                            "width": 274,
-                            "height": 184,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                            "width": 900,
+                            "height": 600,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/K6bce9Do86pqACxJDGPLqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/1118bd8dbe858f7957f0c5f2281008f8",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/yp6cNdqNPYrEVdq5QZT5dA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1485,22 +1427,22 @@
                 ]
             },
             {
-                "uuid": "cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d",
-                "title": "Why Major Tech Stocks Like Alphabet and Broadcom Flew Higher on Friday",
-                "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/cfdca9ad-bb7e-3b63-9dd2-902a3a2e3d1d/why-major-tech-stocks-like.html",
-                "providerPublishTime": 1706920747,
+                "uuid": "75ef9857-177c-316d-9787-2162b39d9b67",
+                "title": "When Amazon's new AI tool answers shoppers' queries, who benefits?",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/amazons-ai-tool-answers-shoppers-143103932.html",
+                "providerPublishTime": 1707143463,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/3.6nya8vBd_GslnpxXmUOA--~B/aD0xNDE0O3c9MjEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
-                            "width": 2120,
-                            "height": 1414,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/k6m8cW8cC5sDaHm6k7SmIQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/1ab663a81dc545456fac1354df4f8377",
+                            "width": 800,
+                            "height": 533,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/uNWQJ5O2zmyjniVwyg58DQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf1fb04c30d7f5aca4f7b82be3787df7",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/q5hDRtei9dBxiKzhDchMaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/1ab663a81dc545456fac1354df4f8377",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1508,29 +1450,26 @@
                     ]
                 },
                 "relatedTickers": [
-                    "GOOG",
-                    "META",
-                    "AMZN",
-                    "AVGO"
+                    "AMZN"
                 ]
             },
             {
-                "uuid": "3249161c-72eb-3aae-81da-c86c929eaadd",
-                "title": "Why Snowflake Stock Soared Today",
+                "uuid": "384d3b97-e593-3e87-a7b5-056a9b6896cb",
+                "title": "1 Trillion-Dollar Warren Buffett Stock to Buy Hand Over Fist and 1 to Avoid for Now",
                 "publisher": "Motley Fool",
-                "link": "https://finance.yahoo.com/m/3249161c-72eb-3aae-81da-c86c929eaadd/why-snowflake-stock-soared.html",
-                "providerPublishTime": 1706913928,
+                "link": "https://finance.yahoo.com/m/384d3b97-e593-3e87-a7b5-056a9b6896cb/1-trillion-dollar-warren.html",
+                "providerPublishTime": 1707138900,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/wexjzEqqMEa4N5O0qeqNMw--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a7f49d8414f4619234033b5a2e57ccee",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/3zrDA13qUOSBHMyxjafolQ--~B/aD00NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36bf8c3c246e2b5d1653b3319a405ab0",
                             "width": 720,
                             "height": 441,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/KrQseGs1gE2YxPWM3swJWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a7f49d8414f4619234033b5a2e57ccee",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aRDJWzJuThvuQOpm6oTU8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/36bf8c3c246e2b5d1653b3319a405ab0",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1538,28 +1477,27 @@
                     ]
                 },
                 "relatedTickers": [
-                    "SNOW",
                     "AMZN",
-                    "MSFT"
+                    "AAPL"
                 ]
             },
             {
-                "uuid": "49bcb2a7-5dbc-3d29-8c20-a6d529f8a858",
-                "title": "Jeff Bezos could surpass Elon Musk as world's richest person",
-                "publisher": "Yahoo Finance Video",
-                "link": "https://finance.yahoo.com/video/jeff-bezos-could-surpass-elon-222750635.html",
-                "providerPublishTime": 1706912870,
-                "type": "VIDEO",
+                "uuid": "7b8881e2-716a-306c-af5c-c78ea0bcf08f",
+                "title": "3 Key Things From Amazon's Earnings Call Investors Should Know",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/7b8881e2-716a-306c-af5c-c78ea0bcf08f/3-key-things-from-amazon%27s.html",
+                "providerPublishTime": 1707136345,
+                "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/WUpibZ0b8H8fNaFr4uAJ8w--~B/aD00MzAwO3c9NzY0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/73cc5a40-c218-11ee-bbbf-56044ad6d643",
-                            "width": 7640,
-                            "height": 4300,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aku9SlVXwPjzJMHpm9Wg.g--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e8bbdf3bd4eb32939048dea7e8cdaad3",
+                            "width": 3000,
+                            "height": 2000,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/CVeaRktUdLIFco6sLypX6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/73cc5a40-c218-11ee-bbbf-56044ad6d643",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/GzWW.o4WQzoU.1JTXRN2SQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e8bbdf3bd4eb32939048dea7e8cdaad3",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1567,98 +1505,94 @@
                     ]
                 },
                 "relatedTickers": [
+                    "AMZN"
+                ]
+            },
+            {
+                "uuid": "9b2ec990-b1b3-39e0-a91b-6f76638d8127",
+                "title": "Where Will Amazon Stock Be in 5 Years?",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/9b2ec990-b1b3-39e0-a91b-6f76638d8127/where-will-amazon-stock-be-in.html",
+                "providerPublishTime": 1707131700,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/xGnWolugdyI_R86PyqITwg--~B/aD05MDM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6d875a8af91fe4fd235bffad6a055cbb",
+                            "width": 1400,
+                            "height": 903,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Ug2e2RB62p69Ae9y1MfN1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6d875a8af91fe4fd235bffad6a055cbb",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AMZN"
+                ]
+            },
+            {
+                "uuid": "22905374-d570-3d30-ba8f-fff27b0bd3d5",
+                "title": "Invest with Confidence: Intrinsic Value Unveiled of Amazon.com Inc",
+                "publisher": "GuruFocus.com",
+                "link": "https://finance.yahoo.com/news/invest-confidence-intrinsic-value-unveiled-110145398.html",
+                "providerPublishTime": 1707130905,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/OkOZVMyywaI5.CdufX9VEQ--~B/aD0xODQ7dz0yNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/64dc1817076701df79a2d5658e75e4b2",
+                            "width": 274,
+                            "height": 184,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/OHCyVHLk33I8SD.EbOr4KQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/64dc1817076701df79a2d5658e75e4b2",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AMZN"
+                ]
+            },
+            {
+                "uuid": "f56d0824-6e65-46b1-9ba2-cbb478e1e37a",
+                "title": "Why you must now be concerned about the hot 'Magnificent 7' trade",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/news/why-you-must-now-be-concerned-about-the-hot-magnificent-7-trade-110024295.html",
+                "providerPublishTime": 1707130824,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ClXK6wlm_6BCNCl_3aqTDQ--~B/aD0zOTMzO3c9NTkwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-02/fc1e9bc0-c1e5-11ee-ba5b-d8249bfce2ab",
+                            "width": 5900,
+                            "height": 3933,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1JDbxrvtrQ.VZVuOfg7Jxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-02/fc1e9bc0-c1e5-11ee-ba5b-d8249bfce2ab",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "AMZN",
                     "TSLA",
-                    "AMZN"
-                ]
-            },
-            {
-                "uuid": "712a28cf-ad57-33d3-861d-9f8c232a8464",
-                "title": "Bezos plans on selling 50 million Amazon shares during next 12 months",
-                "publisher": "Fox Business",
-                "link": "https://finance.yahoo.com/news/bezos-plans-selling-50-million-222251174.html",
-                "providerPublishTime": 1706912571,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/0x4KszkQ.ys8Wh9yBlv50g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_business_text_367/c3dc0ddd94bfd35c91c12fce16f6233b",
-                            "width": 1280,
-                            "height": 720,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/kNEM2GyWuURRR8PKD1wOpQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_business_text_367/c3dc0ddd94bfd35c91c12fce16f6233b",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "AMZN"
-                ]
-            },
-            {
-                "uuid": "ae781605-8fd9-3163-8eae-ecb47e1a69cc",
-                "title": "Forget The Magnificent Seven. Focus On These Fab Five.",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/ae781605-8fd9-3163-8eae-ecb47e1a69cc/forget-the-magnificent-seven..html",
-                "providerPublishTime": 1706912095,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/66b.KX6W2SJivwY3uI3lWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 1000,
-                            "height": 563,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/VPWt81DAapi9KX9euWEszg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/245bbfacd68c5c4a79daca54e77a6904",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
                     "MSFT",
-                    "NVDA",
-                    "TSLA",
-                    "META",
                     "GOOG",
                     "AAPL",
-                    "AMZN",
-                    "^GSPC"
-                ]
-            },
-            {
-                "uuid": "de5ff24e-5608-312a-9273-290264bbd7e2",
-                "title": "CEO Zuckerberg Will Get $700 Million in Income From Meta\u2019s New Dividend\u2014and a Hefty Tax Bill",
-                "publisher": "Barrons.com",
-                "link": "https://finance.yahoo.com/m/de5ff24e-5608-312a-9273-290264bbd7e2/ceo-zuckerberg-will-get-%24700.html",
-                "providerPublishTime": 1706910600,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/yI5mtP.Vm_6kgv4g.edRUA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e081a1e8751acca46d8b4038bdbe4396",
-                            "width": 1280,
-                            "height": 640,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/lPo1QKlSS0M6fY7.1PKZoA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e081a1e8751acca46d8b4038bdbe4396",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "META",
-                    "TSLA",
-                    "AMZN"
+                    "NVDA",
+                    "META"
                 ]
             }
         ]
@@ -1666,6 +1600,63 @@
     "ADBE": {
         "symbol": "ADBE",
         "news": [
+            {
+                "uuid": "5962d59d-fd09-36cb-afa4-1c9b22a80cb4",
+                "title": "Software Stocks To Watch Amid Debates Over Gen AI, Cloud Computing",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/5962d59d-fd09-36cb-afa4-1c9b22a80cb4/software-stocks-to-watch-amid.html",
+                "providerPublishTime": 1707139069,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/3c5WY3s3eN6IXGKnoHrm1A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
+                            "width": 1000,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/BqPbfjyvBGdkhBMNw_mdLA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "ADBE",
+                    "TEAM",
+                    "MSFT"
+                ]
+            },
+            {
+                "uuid": "684c930d-1475-3adc-b013-ae604c056ebc",
+                "title": "AI Stocks: Tech Giants, Cloud Titans, Chipmakers Battle For An Edge",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/684c930d-1475-3adc-b013-ae604c056ebc/ai-stocks%3A-tech-giants%2C-cloud.html",
+                "providerPublishTime": 1707138528,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/vm6FVjWkOuw1cZ7OX4Tyxw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
+                            "width": 1000,
+                            "height": 565,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mNMutlziCIpgKz_62LpAFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "ADBE",
+                    "NVDA"
+                ]
+            },
             {
                 "uuid": "3152d9ed-17cc-3a6b-9732-20fadbec1d63",
                 "title": "Why Adobe Systems (ADBE) is a Top Stock for the Long-Term",
@@ -1718,34 +1709,6 @@
                 },
                 "relatedTickers": [
                     "ADBE"
-                ]
-            },
-            {
-                "uuid": "684c930d-1475-3adc-b013-ae604c056ebc",
-                "title": "AI Stocks: Tech Giants, Cloud Titans, Chipmakers Battle For An Edge",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/684c930d-1475-3adc-b013-ae604c056ebc/ai-stocks%3A-tech-giants%2C-cloud.html",
-                "providerPublishTime": 1706792148,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/vm6FVjWkOuw1cZ7OX4Tyxw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
-                            "width": 1000,
-                            "height": 565,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/mNMutlziCIpgKz_62LpAFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "ADBE",
-                    "NVDA"
                 ]
             },
             {
@@ -1859,24 +1822,29 @@
                     "ADBE",
                     "CCI"
                 ]
-            },
+            }
+        ]
+    },
+    "BYND": {
+        "symbol": "BYND",
+        "news": [
             {
-                "uuid": "d861be47-7833-3f9a-80b1-e2146f8f149c",
-                "title": "Adobe Gives Up on Web-Design Product to Rival\u00a0Figma After Deal Collapse",
-                "publisher": "Bloomberg",
-                "link": "https://finance.yahoo.com/news/adobe-gives-design-product-rival-190945082.html",
-                "providerPublishTime": 1706641785,
+                "uuid": "5f695c14-bc91-363c-995e-e994c1f0807e",
+                "title": "These Are The 5 Best Stocks To Buy And Watch Now",
+                "publisher": "Investor's Business Daily",
+                "link": "https://finance.yahoo.com/m/5f695c14-bc91-363c-995e-e994c1f0807e/these-are-the-5-best-stocks.html",
+                "providerPublishTime": 1707082984,
                 "type": "STORY",
                 "thumbnail": {
                     "resolutions": [
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/AmXmtRv0z6rQj76STrumxA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/0b6ab98d36fe5e74fbac0dd6335bd4cf",
-                            "width": 2000,
-                            "height": 1333,
+                            "url": "https://s.yimg.com/uu/api/res/1.2/CnP2jdOEWBJtUq5bgefK.A--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d286311e6de86e24602ae294b1416a97",
+                            "width": 1000,
+                            "height": 565,
                             "tag": "original"
                         },
                         {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/lPmcjH6wH_ip1LvCmFIL2A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/0b6ab98d36fe5e74fbac0dd6335bd4cf",
+                            "url": "https://s.yimg.com/uu/api/res/1.2/5kZwg.6ucIIcvy5t6kUIOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d286311e6de86e24602ae294b1416a97",
                             "width": 140,
                             "height": 140,
                             "tag": "140x140"
@@ -1884,14 +1852,13 @@
                     ]
                 },
                 "relatedTickers": [
-                    "ADBE"
+                    "FB",
+                    "CMG",
+                    "BYND",
+                    "ZS",
+                    "CIEN"
                 ]
-            }
-        ]
-    },
-    "BYND": {
-        "symbol": "BYND",
-        "news": [
+            },
             {
                 "uuid": "165e8f3d-2c6d-33a2-a549-32c80b81bee9",
                 "title": "Investors should skip Beyond Meat on 'limited portfolio': Analyst",
@@ -1918,37 +1885,6 @@
                 "relatedTickers": [
                     "NOMD",
                     "BYND"
-                ]
-            },
-            {
-                "uuid": "5f695c14-bc91-363c-995e-e994c1f0807e",
-                "title": "These Are The 5 Best Stocks To Buy And Watch Now",
-                "publisher": "Investor's Business Daily",
-                "link": "https://finance.yahoo.com/m/5f695c14-bc91-363c-995e-e994c1f0807e/these-are-the-5-best-stocks.html",
-                "providerPublishTime": 1706737744,
-                "type": "STORY",
-                "thumbnail": {
-                    "resolutions": [
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/CnP2jdOEWBJtUq5bgefK.A--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d286311e6de86e24602ae294b1416a97",
-                            "width": 1000,
-                            "height": 565,
-                            "tag": "original"
-                        },
-                        {
-                            "url": "https://s.yimg.com/uu/api/res/1.2/5kZwg.6ucIIcvy5t6kUIOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d286311e6de86e24602ae294b1416a97",
-                            "width": 140,
-                            "height": 140,
-                            "tag": "140x140"
-                        }
-                    ]
-                },
-                "relatedTickers": [
-                    "FB",
-                    "CMG",
-                    "BYND",
-                    "ZS",
-                    "CIEN"
                 ]
             },
             {
