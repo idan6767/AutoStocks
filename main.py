@@ -20,15 +20,14 @@ from datetime import datetime as dt, timedelta, date
 import matplotlib.dates as mdates
 import numpy as np
 
-idannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 today_date = date.today()
 today_datetime = dt.combine(today_date, dt.min.time())
 
 STOCK_DATA = StockDataManager('DATA.json')
 TEMP_STOCK_DATA = StockDataManager('TEMP_DATA.json')
 NEWS_DATA = StockDataManager('NEWS_DATA.json')
-CRISIS_DATA = StockDataManager('C:/Users/idan6/PycharmProjects/Day19-part1/AutoStocks-Website/CRISIS_DATA.json')
-stocksdata_csv_path = 'C:/Users/idan6/PycharmProjects/Day19-part1/AutoStocks-Website/stocks-data.csv'
+CRISIS_DATA = StockDataManager('CRISIS_DATA.json')
+stocksdata_csv_path = 'stocks-data.csv'
 
 full_info = StocksData("")
 matplotlib.use('Agg')
