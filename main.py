@@ -20,8 +20,6 @@ from datetime import datetime as dt, timedelta, date
 import matplotlib.dates as mdates
 import numpy as np
 
-test = "this is my little test"
-
 
 today_date = date.today()
 today_datetime = dt.combine(today_date, dt.min.time())
