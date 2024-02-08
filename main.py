@@ -20,6 +20,9 @@ from datetime import datetime as dt, timedelta, date
 import matplotlib.dates as mdates
 import numpy as np
 
+test = "this is my little test"
+
+
 today_date = date.today()
 today_datetime = dt.combine(today_date, dt.min.time())
 
@@ -460,4 +463,4 @@ def popup():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5000)
